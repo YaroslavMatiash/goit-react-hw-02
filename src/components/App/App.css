@@ -1,6 +1,9 @@
 #root {
-  max-width: 1280px;
+  width: 800px;
+  height: 500px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: start;
+  background-color: #e4dcdc;
+  border-radius: 10px;
 }

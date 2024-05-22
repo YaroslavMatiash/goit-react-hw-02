@@ -1,0 +1,14 @@
+.component {
+  margin-top: 20px;
+  color: black;
+}
+
+.title {
+  font-size: 26px;
+  color: #0ebac5;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 500;
+}
